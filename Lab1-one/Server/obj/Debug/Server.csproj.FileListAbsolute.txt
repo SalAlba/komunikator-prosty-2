@@ -1,0 +1,6 @@
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-one\Server\bin\Debug\Server.exe.config
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-one\Server\bin\Debug\Server.exe
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-one\Server\bin\Debug\Server.pdb
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-one\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-one\Server\obj\Debug\Server.exe
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-one\Server\obj\Debug\Server.pdb
